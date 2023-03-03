@@ -1,8 +1,8 @@
 package contamodel;
 
-public class Conta {
-
-	private int numero;
+public abstract class Conta {
+    
+    private int numero;
 	private int agencia;
 	private int tipo;
 	private String titular;
